@@ -1,0 +1,64 @@
+.container_sobre {
+    width: 100%;
+    padding: 100px 20px;
+    background-color: var(--fundo-card);
+
+}
+
+.sobre_titulo {
+    max-width: 1024px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: var(--cor-primaria);
+    
+}
+
+.sobre_titulo h2 {
+    font-size: 28px;
+    color: var(--cor-texto);
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.sobre_titulo p {
+    font-size: 18px;
+    line-height: 38px;
+    padding-bottom: 30px;
+}
+
+.sobre_detalhes {
+    display: flex;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: var(--cor-primaria);
+}
+
+.sobre_lojas {
+    border: 1px solid var(--cor-paragrafo);
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 80px;
+}
+
+.sobre_imagem {
+    width: 50%;
+    height: 300px;
+    border: 1px solid var(--cor-paragrafo);
+}
+
+.sobre_lojas h3 {
+    width: 70%;
+    font-size: 38px;
+    color: var(--cor-texto);
+}
+
+.sobre_lojas p {
+    width: 80%;
+    font-size: 22px;
+    color: var(--cor-texto);
+}
