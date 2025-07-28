@@ -1,0 +1,33 @@
+.container_capa{
+    width: 100%;
+    height: 90vh;
+    position: relative;
+}
+
+.imagem_capa {
+    width: 100%;
+    height: 90vh;
+}
+
+.container_titulo {
+    width: 300px;
+    height: 170px;
+    position: absolute;
+    top: 40%;
+    right: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.container_titulo p {
+    color: var(--cor-paragrafo);
+    font-size: 20px;
+}
+
+.container_titulo h1 {
+    width: 300px;
+    color: var(--cor-primaria);
+    font-size: 34px;
+    letter-spacing: 3px;
+}
