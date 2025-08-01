@@ -8,7 +8,7 @@ import estilos from "./Secaoproduto.module.css";
 export default function SecaoProduto() {
   return (
     <section className={estilos.container_produto}>
-			<div className={estilos.titulo_produto}>
+			<div className={estilos.titulo_produto} id="produtos">
 				<h2>Nossos produtos</h2>
 				<p>
 					Trabalhamos com óculos de grau, óculos de sol,lentes transition nos modelos masculinos, feminino e infatil.

@@ -1,12 +1,11 @@
 :root{
-  --cor-texto: #000000;
+  --cor-rodape: #000000;
   --cor-primaria: #fff;
   --cor-paragrafo: #C4C4C4;
   --fundo-card: #F6F6F6;
   --bordas-imagens: #4a4a4a;
-
-   /*--#F8F7FF
-   #05031b */
+  --cor-texto: #05031b;
+  --texto-claro: #F8F7FF;
 }
 
 * {
@@ -14,4 +13,5 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Tahoma', sans-serif;
+  scroll-behavior: smooth;
 }
