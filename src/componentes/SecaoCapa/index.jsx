@@ -9,7 +9,7 @@ export default function SecaoCapa() {
       <div className={estilos.container_capa}>
         <Image
           src={Capa}
-          alt="Home e mulher com oculos escuros"
+          alt="Homem e mulher com oculos escuros"
           className={estilos.imagem_capa}
         />
       </div>

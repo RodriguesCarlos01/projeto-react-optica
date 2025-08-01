@@ -1,4 +1,4 @@
-import estilos from "./SecaoContodo.module.css";
+import estilos from "./SecaoContato.module.css";
 import Image from "next/image";
 import localizacao from "../../../public/local.png";
 import telefone from "../../../public/telefone.png";

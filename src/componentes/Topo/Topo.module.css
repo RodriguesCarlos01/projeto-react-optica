@@ -34,3 +34,10 @@
     font-size: 18px;
     color: var(--cor-texto);
 }
+
+/* Responsividade para celular */
+
+.logo_header {
+    flex-direction: column;
+    gap: 10px;
+}

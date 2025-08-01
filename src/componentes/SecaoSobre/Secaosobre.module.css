@@ -61,3 +61,13 @@
     font-size: 22px;
     color: var(--cor-texto);
 }
+
+/* Responsividade para tablet */
+
+.sobre_detalhes{
+    height: 50vh;
+}
+
+.sobre_imagem {
+    height: 50vh;
+}

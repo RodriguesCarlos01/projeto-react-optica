@@ -56,3 +56,14 @@
     margin-right: 10px;
 }
 
+/* Responsividade para laptop */
+
+@media (max-width: 1200px){
+    .contato_titulo {
+        width: 100%;
+    }
+
+    .contato_detalhes {
+        width: 100%;
+    }
+}

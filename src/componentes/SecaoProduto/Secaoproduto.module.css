@@ -85,3 +85,26 @@
     font-weight: 500;
     padding: 10px;
 }
+
+/* Reponsividade para laptop */
+
+@media (max-width: 1200px) {
+
+    .titulo_produto {
+        width: 100%;
+    }
+   
+    .detalhes_produto {
+        width: 100%;
+    }
+
+}
+
+/* Reponsividade para tablet */
+
+@media (max-width: 768px){
+      
+    .card_produto{
+        flex: 1 1 300px;
+    }
+}
